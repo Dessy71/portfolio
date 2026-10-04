@@ -94,7 +94,7 @@ Check it worked: `git log --oneline` should show your commit, and the repo shoul
 
 > If Vercel can't find `vercel.json` (for example you set a different Root Directory), set these by hand in **Settings ▸ Build & Development Settings**: Build Command `npm run build`, Output Directory `site`.
 
-**Important — if you put the repo one level higher** (so the repo root contains both `portfolio/` and `uploads/`), then on the import screen set **Root Directory** to `portfolio`. Otherwise Vercel builds the wrong folder and you'll see a 404.
+**Important — if you put the repo one level higher** (so the repo root contains both `portfolio/` and `uploads/`), then on the import screen set **Root Directory** to `portfolio`. Otherwise Vercel builds the wrong folder and youl see a 404.
 
 ### Option B — Vercel CLI (no GitHub needed)
 
