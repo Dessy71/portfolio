@@ -1,0 +1,17 @@
+# dependencies (this project has none, but just in case)
+node_modules/
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# local env
+.env
+.env.local
+
+# build scratch
+dist/
+*.log
